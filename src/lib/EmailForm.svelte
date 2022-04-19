@@ -1,11 +1,7 @@
 <script>
 	function getPlaceholder() {
 		let placeholders = [
-			'hairtothethrone@gmail.com',
-			'androstownsend@evertonfc.com',
-			'hairlinebling@hotmail.com',
-			'wazza@manutd.com'
-		];
+'maurice@example.com', 'maurice.ravel@free.fr', 'mauricegreene@aol.com'];
 		let random = Math.floor(Math.random() * placeholders.length);
 		let placeholder = placeholders[random];
 		return placeholder;
@@ -14,10 +10,10 @@
 </script>
 
 <form
-	action="https://buttondown.email/api/emails/embed-subscribe/3000Grafts"
+	action="https://buttondown.email/api/emails/embed-subscribe/maurice"
 	method="post"
 	target="popupwindow"
-	onsubmit="window.open('https://buttondown.email/3000Grafts', 'popupwindow')"
+	onsubmit="window.open('https://buttondown.email/maurice', 'popupwindow')"
 	class="max-w-lg grid auto-cols-min items-stretch gap-x-2 gap-y-1 embeddable-buttondown-form
 text-slate-50"
 >
