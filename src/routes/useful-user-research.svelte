@@ -1,3 +1,4 @@
+<article class="prose">
 <h1 id="useful-user-research">Useful user research</h1>
 <p>Here’s what I’ve learnt so far about user research. I’m not publishing this because I’m an expert. I’m publishing the experience of a non-expert navigating the world of user research and encountering mistakes. It’s not gospel, it’s more of a manual.</p>
 <h2 id="this-guide-hopes-to-answer-four-questions">This guide hopes to answer four questions:</h2>
@@ -217,3 +218,4 @@
 <p>Structure your findings to be widely understood and then acted on. Make it easy to: - Build the case for the problems you discover: In larger organisations you should treat packaging up as equally important as the actual learning. - Guide your your team’s work: It’s easier know which work will be valuable to users when you have a list of five pain points instead of 10 pages of notes.</p>
 <h1 id="feedback">Feedback</h1>
 <p>This is a work in progress. Tell me whether it was useful and what can be improved.</p>
+</article>
