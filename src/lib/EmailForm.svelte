@@ -18,7 +18,7 @@
 text-slate-50"
 >
 	<label class=" row-start-1 self-end font-medium" for="bd-email"
-		>Proper grafts for your inbox</label
+		>Spam email signup</label
 	>
 	<input
 		class="min-w-40 row-start-2 rounded text-slate-900 p-2"

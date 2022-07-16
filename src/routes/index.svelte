@@ -9,5 +9,3 @@
 	<li><a class="underline" href="./learn-to-code">Learn to code in 15 minutes</a></li>
 	<li><a class="underline" href="./useful-user-research">Useful user research</a></li>
 </ul>
-<br />
-Maurice
