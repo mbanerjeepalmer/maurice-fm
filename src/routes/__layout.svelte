@@ -8,7 +8,7 @@
 	<Nav />
 
 	<section class="container max-w-3xl min-h-screen mx-auto px-4 sm:px-6 lg:px-8">
-		<article class="prose dark:prose-invert py-6">
+		<article class="prose dark:prose-invert py-2">
 			<slot />
 		</article>
 	</section>
