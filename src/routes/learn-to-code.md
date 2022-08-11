@@ -1,5 +1,5 @@
 # Learn to Code in 15 minutes
-When first I learnt to code, I found it frustrating. I remember flicking between my Codecademy Python course page and the Wikipedia page which said that Dropbox was also written in Python. I looked at my code and thought 'This is nothing like Dropbox'. I couldn't figure out how they were connected. At the end of that 25 hour course I didn't feel I could 'code'.
+When I learnt to code, I found it frustrating. I remember flicking between my Codecademy Python course page and the Wikipedia page which said that Dropbox was also written in Python. I looked at my code and thought 'This is nothing like Dropbox'. I couldn't figure out how they were connected. At the end of that 25 hour course I didn't feel I could 'code'.
 
 So, by the end of the 15 minutes it takes you to read this, when someone asks you 'Can you code?' I hope you'll be able to answer 'Yes'.
 
