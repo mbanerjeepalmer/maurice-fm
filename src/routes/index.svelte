@@ -16,6 +16,8 @@ Find me on:
 <a href="https://github.com/mbanerjeepalmer">GitHub</a>
 or <a href="https://twitter.com/mbanerjeepalmer">Twitter</a>.
 
+<p>🚧 This site is a work in progress 🚧</p>
+
 <Title>What I've learnt so far</Title>
 <p>
 	I'm writing a collection of how-to guides based on what I've learnt so far as a product person.
