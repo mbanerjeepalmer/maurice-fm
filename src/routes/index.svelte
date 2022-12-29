@@ -17,7 +17,7 @@ or <a href="https://twitter.com/mbanerjeepalmer">Twitter</a>.
 </p>
 <ul>
 	<li><a class="underline" href="./make-better-slides">Make better slides</a></li>
-	<li><a class="underline" href="./presenting-your-slides.md">Presenting your slides</a></li>
+	<li><a class="underline" href="./presenting-your-slides">Presenting your slides</a></li>
 	<li><a class="underline" href="./learn-to-code">Learn to code in 15 minutes</a></li>
 	<li><a class="underline" href="./useful-user-research">Useful user research</a></li>
 </ul>
