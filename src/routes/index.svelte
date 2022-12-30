@@ -3,18 +3,12 @@
 </script>
 
 <Title>Maurice Banerjee Palmer</Title>
-I'm currently:
-<ul>
-	<li>a product person</li>
-	<li>based in London</li>
-	<li>working for WorldRemit</li>
-	<li>and in love with bullet points.</li>
-</ul>
-
-Find me on:
+I'm currently a product person based in London. Find me on:
 <a href="https://linkedin.com/in/mbanerjeepalmer">LinkedIn</a>,
 <a href="https://github.com/mbanerjeepalmer">GitHub</a>
 or <a href="https://twitter.com/mbanerjeepalmer">Twitter</a>.
+
+<p>🚧 This site is a work in progress 🚧</p>
 
 <Title>What I've learnt so far</Title>
 <p>

@@ -7,9 +7,9 @@ Follow the link on each question to read more.
 
 1. [Q: Why bother? Why do I need user research?](./do-I-need-user-research)
   - A: User research helps you fill gaps in your understanding. It improves your confidence in your product bets.
-2. [Q: Which questions will my user research answer?](./questions-answered-by-user-research)
+2. [Q: Which questions will my user research answer?](./questions-answered-by-research)
   - A: (1) Which problem to solve, (2) what users need for it to be solved, and (3) whether your solution will actually solve it.
-3. [Q: How do I answer these questions effectively?](./answering-research-questions.md)
+3. [Q: How do I answer these questions effectively?](./answering-research-questions)
   - A: Avoid common errors when using prototypes, interviews and surveys so that your findings are more reliable.
 4. Q: [How do I translate my research into action?](./translate-research-into-action)
   - A: Package up your findings so that they're easy to consume and act on.
