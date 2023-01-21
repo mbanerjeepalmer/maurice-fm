@@ -3,7 +3,7 @@ When I learnt to code, I found it frustrating. I remember flicking between my Co
 
 So, by the end of the 15 minutes it takes you to read this, when someone asks you 'Can you code?' I hope you'll be able to answer 'Yes'.
 
-Well, not quite. But I think that you'll be more confident than if you had taken a 25 hour 'learn to code' course on Codecademy. Maybe you'll be able to say 'I can't code, but I know how the pieces fit together'. [1] Better still, this post only takes X minutes to read.
+Well, not quite. But I think that you'll be more confident than if you had taken a 25 hour 'learn to code' course on Codecademy. Maybe you'll be able to say 'I can't code, but I know how the pieces fit together'. [1] Better still, this post only takes 15 minutes to read.
 
 You're going to learn what code is, what coders do all day and why code matters.
 

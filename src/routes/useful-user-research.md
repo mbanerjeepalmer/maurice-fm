@@ -13,3 +13,5 @@ Follow the link on each question to read more.
   - A: Avoid common errors when using prototypes, interviews and surveys so that your findings are more reliable.
 4. Q: [How do I translate my research into action?](./translate-research-into-action)
   - A: Package up your findings so that they're easy to consume and act on.
+
+Thanks to many people for reviewing early drafts of this.
