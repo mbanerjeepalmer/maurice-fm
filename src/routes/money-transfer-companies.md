@@ -92,4 +92,5 @@ Finally the remittance company needs to reconcile their accounts. That means mat
 Thanks to Nicole Evans, Jess Bianchi and Elena Escalante for reviewing this in draft.
 
 [1] Even though I used to work in this industry I don't represent my previous employer. None of the information below is specific to them.
+
 [2] A variety of people send money around the world for various reasons. I'm simplifying here for the core case.
