@@ -84,7 +84,7 @@ To send instructions in the 21st century money transfer firms may combine:
 
 If the firm uses option 1 then they need to have cash sitting in a bank account before they can credit the recipient. But with options (2) - (4) they may agree that the partner will credit the recipient first and the money transfer firm can reimburse the local partner some time later.
 
-The choice between options (1) - (4) also has implications for 
+The choice between options (1) - (4) therefore has two notable implications. First the amount of liquid cash that the remittance company needs and second how it's exposed to currency markets.
 
 Finally the remittance company needs to reconcile their accounts. That means matching up the consumer transactions, with the money paid in, with the money paid out. For options (2) and (3) this is more challenging because the third party organisation may have a different opinion about which transactions they were asked to pay out and how much they should be paid for those payouts.
 
