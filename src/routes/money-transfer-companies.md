@@ -1,6 +1,12 @@
 # International money transfer companies: a factory tour
 
-People send hundreds of billions of dollars around the world every year. How do consumer remittance companies that enable this work? Here's an introductory tour to how they move money around the world [1].
+Immigrants send hundreds of billions of dollars around the world every year. I thought I should write up my own introductory tour to the companies that make this possible before an AI writer does. [1] [2]
+
+I'm going to focus on:
+- legitimate remittance companies
+- their online operations
+- transaction flow
+- transfers to low and middle income countries
 
 ## Overall customer journey
 Here's a typical customer journey:
@@ -11,7 +17,7 @@ Here's a typical customer journey:
 
 
 ## 1. Sender needs to send money home
- Millions of people live outside their home country. The World Bank estimates $643bn is sent annually from high income to low and middle income countries. These are the flows I'll focus on.
+ Millions of people live outside their home country. The World Bank estimates $643bn is sent annually from high income to low and middle income countries.
  
  Money flows from the high income country to a low income country. Far more is sent from the USA to India than from India to the USA. Often there's a cultural link between the countries, such as former empires.
  
@@ -19,25 +25,26 @@ Here's a typical customer journey:
 
 ## 2. They choose between four options
 Senders have four options:
-1. Global remittance company - Western Union, Moneygram, (Transfer)Wise, Remitly or WorldRemit.
-2. Regional remittance company - Dahabshiil, Nala, MTN Send.
-3. Parallel/black market - individuals send money through informal networks.
-4. Crypto - a coin that has an offramp on the receive side.
+1. Legitimate remittance providers - e.g. Western Union, (Transfer)Wise,  WorldRemit, Revolut.
+2. Parallel/black market - individuals send money through informal networks.
+3. Crypto - a coin that has an offramp on the receive side.
 
-I'll focus on (1) and (2).
+Given all these options, legitimate remittance companies fight to grow the number of customers they have. 
 
-The legitimate remittance providers need to acquire and retain customers. The majority of each company's customer base will be existing customers. Most customers use more than one remittance service.
+On one hand they **try to acquire new customers**. They collectively invest millions each year in paid marketing, SEO and social media.
 
-So the providers collectively spend millions each year on advertising and special offers to try to acquire others' customers They may also use refer a friend schemes. And to keep their existing customers they send marketing emails/SMS/push notifications which may include promotions.
+On the other, they need to **invest in their existing customer base**. They try to retain customers by constantly improving their product, and by sending marketing emails/SMS/push notifications which may include promotions. The group of existing customers also helps acquire new customers: either through word of mouth or by sending refer-a-friend invitations.
 
-The sender and recipient might explore these options before sending.
+The majority of customers using a provider in a given month will be existing, not new, customers.
+
+So the providers are in a constant battle to acquire each others' customers and keep their own. On average each customer uses more than one provider. Both the sender and recipient are involved in deciding which provider to use.
 
 ## 3. Create transaction
 The customer can send money either online or in person. In most cases the money transfer company needs a license to operate in both the sender and the receive countries.
 
-For offline transactions, the traditional global and regional players have networks of 'agents'. These are often people in a booth in a corner shop, post office or bank that gives the sender a form to fill in and takes their money.
+For offline transactions the traditional global and regional players have networks of 'agents'. These are often people in a booth in a corner shop, post office or bank that gives the sender a form to fill in and takes their money.
 
-For online transactions, which is what I'll focus on, the sender **downloads a mobile app** (or uses a website). Generally the app is translated into the languages of the sender's country. I'll focus on transaction creation. But as well as transaction creation, the app may include a 'Help' section and marketing material (e.g. banners with promotions).
+For online transactions the sender **downloads a mobile app** (or uses a website). Generally the app is translated into the languages of the sender's country. But as well as transaction creation, the app may include a 'Help' section and marketing material (e.g. banners with promotions).
 
 The customer registers their details. **This practically always includes email, phone number and name, but vary according to the company's fraud and compliance rules.** So a sender might need to take a photo of their passport, for example, to be able to send money. The money transfer service may use multiple third parties and in-house systems to manage the rules and gather customer details.
 
@@ -71,7 +78,7 @@ Just as with the inbound payments, the money transfer firm negotiates terms and 
 
 To send instructions in the 21st century money transfer firms may combine:
 1. being part of each local payment network themselves (e.g. they have a bank account in the recipient country),
-2. integrating with a local partner per country using an API (or SFTP or email in the worst case),
+2. integrating with a local partner per country using an [API](https://en.wikipedia.org/wiki/API) (or [SFTP](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol) or email in the worst case),
 3. integrating with one global partner who in turn integrates with each local partner,
 4. providing a website that the local partner can use to pay out money without a technical integration (although there may be one as well).
 
@@ -82,7 +89,7 @@ The choice between options (1) - (4) also has implications for
 Finally the remittance company needs to reconcile their accounts. That means matching up the consumer transactions, with the money paid in, with the money paid out. For options (2) and (3) this is more challenging because the third party organisation may have a different opinion about which transactions they were asked to pay out and how much they should be paid for those payouts.
 
 # Notes
-Thanks to Nicole Evans and Jess Bianchi for reviewing this in draft.
+Thanks to Nicole Evans, Jess Bianchi and Elena Escalante for reviewing this in draft.
 
 [1] Even though I used to work in this industry I don't represent my previous employer. None of the information below is specific to them.
 [2] A variety of people send money around the world for various reasons. I'm simplifying here for the core case.
