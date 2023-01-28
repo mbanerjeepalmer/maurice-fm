@@ -1,30 +1,33 @@
 # International money transfer companies: a factory tour
 
-Immigrants send hundreds of billions of dollars around the world every year. I thought I should write up my own introductory tour to the companies that make this possible before an AI writer does. [1] [2]
+Immigrants send hundreds of billions of dollars around the world every year. I thought I should write up my own introductory tour to the companies that make this possible before ChatGPT does. [1] [2]
 
+# What you'll get out of this
 I'm going to focus on:
+- transfers between individuals
 - legitimate remittance companies
 - their online operations
 - transaction flow
 - transfers to low and middle income countries
 
+We'll go through the different stages of the customer journey, starting with their need to send, through the transaction journey and then to payout. At each step I'll **explain what international money transfer companies are doing behind the scenes and what they're concerned about.**
+
 ## Overall customer journey
 Here's a typical customer journey:
-1. Sender lives outside their home [2] country. They need to send money home - typically for their family's education, food, medicine or special occasions.
+1. Sender lives outside their home country. They need to send money home - typically for their family's education, food, medicine, bills or special occasions.
 2. Sender decides to use the remittance company. Either someone tells them about it, they see some marketing or they're an existing user. The sender signs up for the service.
-3. Sender creates a transaction and pays in the money to the remittance company.
+3. Sender creates a transaction and pays in money, and the remittance company performs some checks.
 4. Remittance company pays out the money to the recipient.
 
-
 ## 1. Sender needs to send money home
- Millions of people live outside their home country. The World Bank estimates $643bn is sent annually from high income to low and middle income countries.
+ Millions of people live outside their home country. **The World Bank estimates $643bn is sent annually from high income to low and middle income countries.**
  
- Money flows from the high income country to a low income country. Far more is sent from the USA to India than from India to the USA. Often there's a cultural link between the countries, such as former empires.
+ Money flows from the high income country to a low income country. Far more is sent from the USA to India than from India to the USA. Often there's a cultural link between the countries, such as former colonies.
  
- The senders are likely to be working age. They might regularly send money for education, food and healthcare, as well as one-off gifts.
+ The senders are likely to be working age. They might regularly send money for education, food, healthcare and for bills, as well as one-off gifts.
 
-## 2. They choose between four options
-Senders have four options:
+## 2. They choose how to send
+Senders have three options:
 1. Legitimate remittance providers - e.g. Western Union, (Transfer)Wise,  WorldRemit, Revolut.
 2. Parallel/black market - individuals send money through informal networks.
 3. Crypto - a coin that has an offramp on the receive side.
@@ -33,7 +36,7 @@ Given all these options, legitimate remittance companies fight to grow the numbe
 
 On one hand they **try to acquire new customers**. They collectively invest millions each year in paid marketing, SEO and social media.
 
-On the other, they need to **invest in their existing customer base**. They try to retain customers by constantly improving their product, and by sending marketing emails/SMS/push notifications which may include promotions. The group of existing customers also helps acquire new customers: either through word of mouth or by sending refer-a-friend invitations.
+On the other, they need to **invest in their existing customer base**. They try to retain customers by constantly improving their product, and by sending marketing emails/SMS/push notifications which may include promotions. The group of existing customers also helps acquire new customers: either through word of mouth or by sending refer-a-friend invitations. Refer-a-friend invitations typically come with a bonus for the customers. 
 
 The majority of customers using a provider in a given month will be existing, not new, customers.
 
@@ -76,20 +79,32 @@ By this point we can assume the money transfer service is happy to pay the money
 
 Just as with the inbound payments, the money transfer firm negotiates terms and integrates with payment systems.
 
-To send instructions in the 21st century money transfer firms may combine:
-1. being part of each local payment network themselves (e.g. they have a bank account in the recipient country),
-2. integrating with a local partner per country using an [API](https://en.wikipedia.org/wiki/API) (or [SFTP](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol) or email in the worst case),
-3. integrating with one global partner who in turn integrates with each local partner,
-4. providing a website that the local partner can use to pay out money without a technical integration (although there may be one as well).
+To send payout instructions in the 21st century money transfer firms may:
+1. be part of each local payment network themselves (e.g. they have a bank account in the recipient country),
+2. integrate with a local partner per country using an [API](https://en.wikipedia.org/wiki/API) (or [SFTP](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol) or email in the worst case),
+3. integrate with one global partner who in turn integrates with each local partner,
+4. provide a website that the local partner can use to pay out money without a technical integration (although there may be one as well).
 
-If the firm uses option 1 then they need to have cash sitting in a bank account before they can credit the recipient. But with options (2) - (4) they may agree that the partner will credit the recipient first and the money transfer firm can reimburse the local partner some time later.
+Then the company needs to transfer funds.
 
-The choice between options (1) - (4) therefore has two notable implications. First the amount of liquid cash that the remittance company needs and second how it's exposed to currency markets.
+If the firm uses option 1 then they need to have cash sitting in an account of their own before they can credit the recipient. But with options (2) - (4) they're using a partner. So they may agree that they send the cash to the partner and the partner uses up that balance as they credit each transaction. Or that the partner will credit the recipient first and the money transfer firm will reimburse the local partner some time later.
 
-Finally the remittance company needs to reconcile their accounts. That means matching up the consumer transactions, with the money paid in, with the money paid out. For options (2) and (3) this is more challenging because the third party organisation may have a different opinion about which transactions they were asked to pay out and how much they should be paid for those payouts.
+Therefore the choice between options (1) - (4) **changes how much liquid cash that the remittance company needs and how exposed it is to the fluctuations of currency markets**.
+
+Finally the remittance company needs to **reconcile their accounts**. That means matching up the consumer transactions, with the money paid in, with the money paid out. For options (2) and (3) this is more challenging because the third party organisation may have a different opinion about which transactions they were asked to pay out and how much they should be paid for those payouts.
+
+# What now?
+I hope you feel you understand how the industry works. If:
+- you don't think do understand the industry 
+- or think I didn't
+- or want me to write more about a particular step
+- or want me to share what I found interesting or surprising about the industry
+then find me on Twitter and LinkedIn.
+
+You can also read about how to [do useful user research](/useful-user-research) or how to make better slides and present them well.
 
 # Notes
-Thanks to Nicole Evans, Jess Bianchi and Elena Escalante for reviewing this in draft.
+Thanks to Ksenia Ivanova, Nicole Evans, Jess Bianchi and Elena Escalante for reviewing this in draft.
 
 [1] Even though I used to work in this industry I don't represent my previous employer. None of the information above is specific to them.
 
