@@ -99,13 +99,13 @@ I hope you feel you understand how the industry works. If:
 - or think I didn't
 - or want me to write more about a particular step
 - or want me to share what I found interesting or surprising about the industry
-then find me on Twitter and LinkedIn.
+then find me on [Twitter](https://twitter.com/mbanerjeepalmer) or [LinkedIn](https://linkedin.com/in/mbanerjeepalmer).
 
-You can also read about how to [do useful user research](/useful-user-research) or how to make better slides and present them well.
+You can also read about how to [do useful user research](/useful-user-research) or [how to make better slides](/make-better-slides) and [present them well](/presenting-your-slides).
 
 # Notes
 Thanks to Ksenia Ivanova, Nicole Evans, Jess Bianchi and Elena Escalante for reviewing this in draft.
 
-[1] Even though I used to work in this industry I don't represent my previous employer. None of the information above is specific to them.
+[1] Even though I used to work in this industry I don't represent my previous employer. None of the information below is specific to them.
 
 [2] A variety of people send money around the world for various reasons. I'm simplifying here for the core case.
