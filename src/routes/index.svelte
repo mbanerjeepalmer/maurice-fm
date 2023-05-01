@@ -17,6 +17,9 @@ or <a href="https://twitter.com/mbanerjeepalmer">Twitter</a>.
 </p>
 <ul>
 	<li>
+		<a class="underline" href="./non-terrible-cv">Write a non-terrible CV</a>
+	</li>
+	<li>
 		<a class="underline" href="./money-transfer-companies">International money transfer companies</a
 		>
 	</li>
