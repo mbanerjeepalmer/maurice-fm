@@ -1,5 +1,5 @@
-# Write a non-terrible CV/resume
-Here's what I've learnt from making my CV less terrible and from seeing, and sometimes improving, many others' terrible CVs.
+# Write a passable CV/resume
+Some CVs are absolutely terrible. Here's what I've learnt about making mine and others' passable. That means, good enough for an interview.
 
 Yes I use 'CV' because I'm from the UK.
 
