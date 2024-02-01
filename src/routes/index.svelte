@@ -3,14 +3,18 @@
 </script>
 
 <Title>Maurice Banerjee Palmer</Title>
-I'm currently a product person based in London. Find me on:
-<a href="https://linkedin.com/in/mbanerjeepalmer">LinkedIn</a>,
-<a href="https://github.com/mbanerjeepalmer">GitHub</a>.
+Working on <a class="underline" href="./banquet">Banquet: the best use of your attention.</a>
+
+<p>
+	Find me on:
+	<a href="https://linkedin.com/in/mbanerjeepalmer">LinkedIn</a>,
+	<a href="https://github.com/mbanerjeepalmer">GitHub</a>.
+</p>
 
 <Title>What I've learnt so far</Title>
 <p>
-	I'm writing a collection of how-to guides based on what I've learnt so far as a product person.
-	It's a work in progress.
+	A collection of how-to guides based on what I've learnt so far as a product person. It's a work in
+	progress.
 </p>
 <ul>
 	<li>
