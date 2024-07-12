@@ -4,7 +4,7 @@
 
 <Title>Maurice Banerjee Palmer</Title>
 Working on <a class="underline" href="./banquet">Banquet: the best use of your attention.</a>
-
+<p>Read the latest <a class="underline" href="./banquet-wave">Banquet update</a>.</p>
 <p>
 	Find me on:
 	<a href="https://linkedin.com/in/mbanerjeepalmer">LinkedIn</a>,
