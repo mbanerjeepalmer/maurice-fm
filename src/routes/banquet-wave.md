@@ -79,8 +79,8 @@ Or do you know someone who is?
 
 ![My inbox](https://res.cloudinary.com/dzekh6a2h/image/upload/v1720772019/Banquet%20update%20-%20Wave/cycpctyhh3igtd33zn02.png)
 
-[Nico](https://nicolasward.github.io/) and I are looking for people who get more Substacks than hot dinners each week. We're exploring whether we can help: https://tally.so/r/meEEEl
+[Nico](https://nicolasward.github.io/) and I are looking for people who get more Substacks than hot dinners each week. We're exploring whether we can help: https://banquet.today/l/inbox-form
 
-Fill out the [very short form](https://tally.so/r/meEEEl), or forward it to someone who needs a calmer, more curated inbox.
+Fill out the [very short form](https://banquet.today/l/inbox-form?ref=mbp_inline), or forward it to someone who needs a calmer, more curated inbox.
 
 Finally, do [drop me a message](mailto:hello@banquet.today) or [book a call](https://cal.com/mbanerjeepalmer/chat) if you're interested in chatting about anything above.
