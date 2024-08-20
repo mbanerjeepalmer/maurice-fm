@@ -192,7 +192,7 @@ After the Pytest or production runs I dive into the massive folder of files to t
 
 I also read the original full response, which includes the LLM's `<thinking>` for hints on where it's gone wrong, while bearing in mind that LLMs' self-explanation [isn't accurate](https://arxiv.org/abs/2311.07466).
 
-Someone told me _'As a research-style task, expect the first dozen attempts to be mediocre. (People often hide how many unsuccessful attempts it takes to come across a new successful idea.)'_.
+_'As a research-style task, expect the first dozen attempts to be mediocre. (People often hide how many unsuccessful attempts it takes to come across a new successful idea.)'_ via [Maxime](https://maximerobeyns.com/)
 
 I've found this to be true. Small changes to sequencing, vocabulary, examples, formatting can have a big effect. I now expect to go through 20 iterations before getting to something I'm happy with.
 
