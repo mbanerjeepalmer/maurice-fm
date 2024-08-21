@@ -11,7 +11,7 @@ By [tvanhoosear](https://www.flickr.com/photos/92787319@N00) under [CC BY-SA 2.0
 - LLM API: Claude on Anthropic via their Python SDK mostly works. Do not go near LangChain.
 - Prompting: XML, examples and prompt chaining are fiddly but worth it.
 - Inputs: Use XML, f-strings and Jinja for simplicity and flexibility.
-- Outputs: Tool use generally works, 
+- Outputs: Tool use generally works, regexing XML can be flaky.
 - Error handling: Currently just using while loop. Could use LLMs as error handlers.
 - Optimisation: Needs improvement. Using `logging` module, plain text files, Pytest and Workbench is simple but messy.
 
@@ -233,7 +233,7 @@ I'm not an expert. Far from it. I started writing this just to bring a collabora
 
 I decided to publish it in case it's interesting for others in a similar position, provides amusement for those who do know what they're doing and maybe attracts some [better answers](https://meta.wikimedia.org/wiki/Cunningham%27s_Law).
 
-Please drop me a note if any of the above interests you: [hello@maurice.fm](mailto:hello@maurice.fm).
+Please do reach out if any of the above interests you: [hello@maurice.fm](mailto:hello@maurice.fm).
 
 ---
 
