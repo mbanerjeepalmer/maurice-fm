@@ -233,7 +233,7 @@ I'm not an expert. Far from it. I started writing this just to bring a collabora
 
 I decided to publish it in case it's interesting for others in a similar position, provides amusement for those who do know what they're doing and maybe attracts some [better answers](https://meta.wikimedia.org/wiki/Cunningham%27s_Law).
 
-Please do reach out if any of the above interests you: [hello@maurice.fm](mailto:hello@maurice.fm).
+Please drop me a note if any of the above interests you: [hello@maurice.fm](mailto:hello@maurice.fm).
 
 ---
 
