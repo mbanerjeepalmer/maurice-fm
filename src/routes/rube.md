@@ -12,8 +12,10 @@ By [tvanhoosear](https://www.flickr.com/photos/92787319@N00) under [CC BY-SA 2.0
 - Prompting: XML, examples and prompt chaining are fiddly but worth it.
 - Inputs: Use XML, f-strings and Jinja for simplicity and flexibility.
 - Outputs: Tool use generally works, 
-- Error handling: Currently just using while loop, could use LLMs as error handlers.
-- Optimisation:
+- Error handling: Currently just using while loop. Could use LLMs as error handlers.
+- Optimisation: Needs improvement. Using `logging` module, plain text files, Pytest and Workbench is simple but messy.
+
+![Diagram of the overall flow](https://res.cloudinary.com/dzekh6a2h/image/upload/v1724235286/Overall_flow_gfqtf6.jpg)
 
 # LLM API
 
@@ -37,11 +39,26 @@ The model and hosting limitations make me increasingly tempted to use something 
 # Prompting
 
 ## Basics
+
+Here's one of the simpler prompts to orient you:
+```python
+    system_template = f"""Your job is to write a lede for the <edition>. You need to extract two notable points from the <edition>.
+- First, think within <thinking></thinking> tags. Think carefully about what is in the <edition>.
+- Then write the lede.
+    - You MUST write the lede between <lede> tags (e.g.  <lede>[LEDE CONTENT GOES HERE]</lede>)
+    - The lede will be used as the body for a notification.  It should be roughly 10 words."""
+    human_template = f"""<edition>
+{edition_str}
+</edition>
+"""
+```
+
 I use the system prompt for unchanging instructions like 'You are a genius level curator...'. I put the elements that change, like 'You can choose from these articles, videos and podcasts' into the user prompt. I'm not yet using prompt caching.
 
 I almost always [use XML tags](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/use-xml-tags). I almost always ask the model to first [reflect in `<thinking>` tags](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/chain-of-thought).
 
-I confess I haven't bothered with anything sophisticated. Vector search, fine tuning, soft prompting and the rest are different tools that I would have to learn how to use effectively. Instead I've focused on [getting basic prompting right](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/).
+I confess I haven't bothered with anything sophisticated. Vector search, fine tuning, soft prompting and the rest are different tools that I would have to learn how to use effectively. Instead I want to focus on [getting basic prompting right](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/).
+
 
 ## Examples
 Examples are incredibly powerful. Too powerful. There was a period when Banquet would keep selecting an article from El Mundo about AC/DC's concert in Seville. It turned out I had used the real UUID for that article in the 'examples' section. 
@@ -216,4 +233,4 @@ I'm not an expert. Far from it. I started writing this just to bring a collabora
 
 I decided to publish it in case it's interesting for others in a similar position, provides amusement for those who do know what they're doing and maybe attracts some [better answers](https://meta.wikimedia.org/wiki/Cunningham%27s_Law).
 
-Please do reach out if any of the above interests you: hello@maurice.fm.
+Please do reach out if any of the above interests you: [hello@maurice.fm](mailto:hello@maurice.fm).
