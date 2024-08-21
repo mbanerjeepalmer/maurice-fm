@@ -11,7 +11,7 @@ By [tvanhoosear](https://www.flickr.com/photos/92787319@N00) under [CC BY-SA 2.0
 - LLM API: Claude on Anthropic via their Python SDK mostly works. Do not go near LangChain.
 - Prompting: XML, examples and prompt chaining are fiddly but worth it.
 - Inputs: Use XML, f-strings and Jinja for simplicity and flexibility.
-- Outputs: Tool use generally works, regexing XML can be flaky.
+- Outputs: Tool use generally works, regexing XML is flaky due to small models ignoring tags.
 - Error handling: Currently just using while loop. Could use LLMs as error handlers.
 - Optimisation: Needs improvement. Using `logging` module, plain text files, Pytest and Workbench is simple but messy.
 
