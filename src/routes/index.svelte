@@ -17,6 +17,7 @@ Working on <a class="underline" href="https://bnqt.app">Banquet: the best use of
 	progress.
 </p>
 <ul>
+	<li><a class="underline" href="./hacketisms">Hacketisms: Catechisms for a hackathon</a></li>
 	<li><a class="underline" href="./rube">A Rube Golderbergian Boilerplate for Claude</a></li>
 	<li>
 		<a class="underline" href="./passable-cv">Write a passable CV</a>
