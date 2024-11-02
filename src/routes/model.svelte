@@ -1,0 +1,22 @@
+<script>
+</script>
+
+<svelte:head>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+	<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js"></script>
+	<script
+		nomodule
+		src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"></script>
+</svelte:head>
+
+<div class="flowers">
+	<model-viewer
+		src="static/Prayer beads in glass.glb"
+		auto-rotate=""
+		camera-controls=""
+		alt="rectangle"
+		background-color="#455A64"
+		style="width: 1000px; height: 1000px;"
+		ar-status="not-presenting"
+	/>
+</div>
