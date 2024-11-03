@@ -1,6 +1,6 @@
 # Hacketisms
 
-[Catechisms](https://en.wikipedia.org/wiki/Catechism) for a hackathon. Repeat after me:
+[Catechisms](https://en.wikipedia.org/wiki/Catechism) for a hackathon. Repeat (loudly) after me:
 1. THE DEMO IS THE ONLY THING THAT MATTERS
 2. TOOL PERFORMANCE IS GOVERNED BY FAMILIARITY NOT FEATURES
 3. TEAM COHERENCE OVER CAPABILITIES
