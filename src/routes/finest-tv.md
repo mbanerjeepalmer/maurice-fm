@@ -28,11 +28,11 @@ One evening a few years ago I accidentally switched on a repeat of a full stage,
 
 The commentators were discussing the Cathars, an 11th century Christian sect. And on a multi-hour full stage, when there's a lull in the racing, the commentators seize the opportunity to digress from the sport. And I hadn't clocked how unusual it seemed for my flatmate. It seemed natural.
 
-![Chateau](/assets/Chateau.png)
+![Château](assets/Chateau.png)
 
 Equally natural are segments during the highlights shows on Mexican grocery stores, pre-war Communist aeronautical engineers and eccentric sculptors.
 
-They're natural not only because of cycling's integration into the real world, but also thanks to the team making the programme. The programme opens with deadpan dad jokes and closes with something self-deprecating. Commentators seem effortlessly erudite because they're boyishly enthusiastic about the non-cycling elements ('Anyway, if I could just finish telling you about that chateau...'). When the racing is dramatic they don't need to shout 'OH MY GOD THE DRAMA HE'S GOING TO WIN'. No. They don't tell, they show. I think that's what's makes it compelling.
+They're natural not only because of cycling's integration into the real world, but also thanks to the team making the programme. The programme opens with deadpan dad jokes and closes with something self-deprecating. Commentators seem effortlessly erudite because they're boyishly enthusiastic about the non-cycling elements ('Anyway, if I could just finish telling you about that château...'). When the racing is dramatic they don't need to shout 'OH MY GOD THE DRAMA HE'S GOING TO WIN'. No. They don't tell, they show. I think that's what's makes it compelling.
 
 ![Highlights show](/assets/Highlights.png)
 ![Commentators](/assets/Commentators.png)
@@ -44,7 +44,7 @@ Urbane commentary, delivered in a laid-back manner, letting the race deliver the
 
 This will be the last Tour on free to air in the UK after 40 years.
 
-I don't think Eurosport and TNT, who have exclusive rights until 2030 in the UK, will be as fun. They take themselves seriously. The helicopter shots of chateaus are an afterthought. It's thick with theatrics.  I don't want to put that on in the background while chopping vegetables.
+I don't think Eurosport and TNT, who have exclusive rights until 2030 in the UK, will be as fun. They take themselves seriously. The helicopter shots of châteaus are an afterthought. It's thick with theatrics.  I don't want to put that on in the background while chopping vegetables.
 
 The story of UK Tour de France broadcasting follows that of the wider media. From terrestrial Channel 4 and ITV, to Eurosport on satellite and now the £31 a month TNT.
 
