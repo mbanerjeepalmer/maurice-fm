@@ -31,6 +31,11 @@
 		>
 	</li>
 	<li>
+		<a href="https://sotaletters.substack.com/p/rockets" target="_blank"
+			>Rockets, Culture and Progress</a
+		>
+	</li>
+	<li>
 		<a href="https://www.zacusca.net/blog/feedly-unusable" target="_blank"
 			>Why is Feedly pushing unusable AI?</a
 		>
