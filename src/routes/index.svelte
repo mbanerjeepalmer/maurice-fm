@@ -22,21 +22,28 @@
 	<li><a href="./learn-to-code">Learn to code in 15 minutes</a></li>
 	<li><a href="./useful-user-research">Useful user research</a></li>
 </ul>
+<h2>Other writing</h2>
+<ul>
+	<li><a href="./finest-tv">The final week of the finest television</a></li>
+	<li>
+		<a href="https://digitalfrontier.com/articles/rss-dead-protocols-internet-llm" target="_blank"
+			>RSS is dead. Long live RSS!</a
+		>
+	</li>
+	<li>
+		<a href="https://www.zacusca.net/blog/feedly-unusable" target="_blank"
+			>Why is Feedly pushing unusable AI?</a
+		>
+	</li>
+</ul>
 <h2>What I've done</h2>
 <h3><a href="https://bnqt.app" target="_blank" rel="noopener noreferrer">Banquet</a></h3>
 <p>
-	A media curation web app. The best use of your attention. <a href="./banquet-wave">Read</a> an
-	update,
+	The best use of your attention. <a href="./banquet-wave">Read</a> an update,
 	<a href="https://imgur.com/wrh19Uf" target="_blank" rel="noopener noreferrer">look</a> at the UI.
 </p>
 <h3><a href="https://printstack.net" target="_blank" rel="noopener noreferrer">Printstack</a></h3>
-<p>
-	Turn a Substack into a book. Also <a
-		href="https://printstack.substack.com"
-		target="_blank"
-		rel="noopener noreferrer">exists as a Substack</a
-	>.
-</p>
+<p>Turn a Substack into a book.</p>
 <h3><a href="https://vol.best" target="_blank" rel="noopener noreferrer">vol</a></h3>
 <p>
 	Search for podcasts using your ambitions instead of keywords. Built solo at Meta's Llama
@@ -56,11 +63,11 @@
 	>
 </h3>
 <p>
-	Mostly in FinTech. At some companies you might have heard of, like Amex; backed by some investors
+	Mostly in FinTech. At some companies you might have heard of, like Amex. Backed by some investors
 	you might have heard of, like Andreesen Horowitz.
 </p>
 <h3 class="font-medium">And some consulting</h3>
-<p>User research training, product management training, technical writing.</p>
+<p>User research training, AI engineering, product management training, technical writing.</p>
 <h2>Find me</h2>
 <p>If anything above interests you,I'm always happy to chat.</p>
 <p>
@@ -72,7 +79,7 @@
 		href="https://bsky.app/profile/mbanerjeepalmer.bsky.social"
 		target="_blank"
 		rel="noopener noreferrer">Bluesky</a
-	>.
+	>, <a href="mailto:hello@maurice.fm" target="_blank" rel="noopener noreferrer">email</a>.
 </p>
 
 <style lang="postcss">
