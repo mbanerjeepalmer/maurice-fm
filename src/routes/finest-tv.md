@@ -1,3 +1,7 @@
+<svelte:head>
+    <link rel="canonical" href="https://mbanerjeepalmer.substack.com/p/the-final-week-of-the-finest-television">
+</svelte:head>
+
 # The final week of the finest television
 
 _Cycling across the media landscape_
@@ -28,7 +32,7 @@ One evening a few years ago I accidentally switched on a repeat of a full stage,
 
 The commentators were discussing the Cathars, an 11th century Christian sect. And on a multi-hour full stage, when there's a lull in the racing, the commentators seize the opportunity to digress from the sport. And I hadn't clocked how unusual it seemed for my flatmate. It seemed natural.
 
-![Château](assets/Chateau.png)
+![Château](/assets/Chateau.png)
 
 Equally natural are segments during the highlights shows on Mexican grocery stores, pre-war Communist aeronautical engineers and eccentric sculptors.
 
