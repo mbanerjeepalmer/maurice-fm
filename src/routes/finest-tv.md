@@ -70,4 +70,4 @@ Further reading:
 - One of the main presenters has a paid newsletter [https://nedboulting.substack.com/](https://nedboulting.substack.com/).
 - To help explain what is a rather mystifying sport, in 2018 I wrote this by the roadside in Bergerac: [https://medium.com/@mbanerjeepalmer/two-principles-to-actually-understand-the-tour-de-france-1aa1b5b67ae9](https://medium.com/@mbanerjeepalmer/two-principles-to-actually-understand-the-tour-de-france-1aa1b5b67ae9)
 - Further watching: if you've got this far then I should point out the world of cycling beyond the Tour. I used to prefer the Giro and Vuelta to the Tour, since they're so unpredictable. The spring classics are the pinnacle of cycling entertainment.
-- If media more broadly interests you, look at the media products I'm building at https://bnqt.app and [reach out](hello@maurice.fm).
+- If media more broadly interests you, look at the media products I'm building at https://bnqt.app and [reach out](mailto:hello@maurice.fm).
