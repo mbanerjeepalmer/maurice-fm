@@ -40,7 +40,7 @@ They're natural not only because of cycling's integration into the real world, b
 
 ![Highlights show](/assets/Highlights.png)
 ![Commentators](/assets/Commentators.png)
-Other sports coverage earnestly foists the action in your face. Half time in the Merseyside Derby doesn't pan away to a brief exploration of Liverpool Docks. Commentators at Silverstone don't muse about the area's geology. No,we have to be breathlessly told before, during and after that every moment is filled with drama; and this is the Avengers of commentary teams; and we need fake drums and explosions because they think we're too stupid to pay attention without them.
+Other sports coverage earnestly foists the action in your face. Half time in the Merseyside Derby doesn't pan away to a brief exploration of Liverpool Docks. Commentators at Silverstone don't muse about the area's geology. No, we have to be breathlessly told before, during and after that every moment is filled with drama; and this is the Avengers of commentary teams; and we need fake drums and explosions because they think we're too stupid to pay attention without them.
 
 Urbane commentary, delivered in a laid-back manner, letting the race deliver the drama.
 
