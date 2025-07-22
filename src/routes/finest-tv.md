@@ -50,6 +50,8 @@ The story of UK Tour de France broadcasting follows that of the wider media. Fro
 
 There is a faint hope that the ITV exit clears space for a fresh take. For everything I love about the coverage, terrestiral TV adverts, prize competitions and exclusively middle-aged male presenting team shackle it to the past.
 
+![NSF](/assets/NSF.png)
+
 The old ITV team hopes ['NSF'](https://neverstraysfar.com/) will replace the 'free-to-air' notion component. They'll be _'wildly digressing and enjoying the whole sort of cultural trip and the lap around France as well, but at the same time keeping you in touch with what's going on in the race'_. That's comforting for those mourning the loss of ITV. But I'm not sure it's fresh enough. The existing podcast is barely discoverable. That the acronym is easily confused with the Reddit acronym meaning 'explicit content', betrays its TV-era origins.
 
 Today's media landscape is characterised by deeply-researched long-form podcasts and viral short-form videos. Tomorrow's may be shaped by generative AI and a multipolar economy. For the old spirit of worldly, relaxed, cycling coverage to live on, it must exploit these more fertile parts of the media landscape. Nostalgia is not profitable in the long run.
