@@ -5,8 +5,8 @@
 <Title>Maurice Banerjee Palmer</Title>
 <h2>What I've learnt so far</h2>
 <p>
-	A collection of how-to guides based on what I've learnt so far as a product person. It's a work in
-	progress.
+	A collection of how-to guides based on what I've learnt so far as a product person. It's a work
+	in progress.
 </p>
 <ul>
 	<li><a href="./hacketisms">Hacketisms: Catechisms for a hackathon</a></li>
@@ -26,8 +26,9 @@
 <ul>
 	<li><a href="./finest-tv">The final week of the finest television</a></li>
 	<li>
-		<a href="https://digitalfrontier.com/articles/rss-dead-protocols-internet-llm" target="_blank"
-			>RSS is dead. Long live RSS!</a
+		<a
+			href="https://digitalfrontier.com/articles/rss-dead-protocols-internet-llm"
+			target="_blank">RSS is dead. Long live RSS!</a
 		>
 	</li>
 	<li>
@@ -54,8 +55,10 @@
 	Search for podcasts using your ambitions instead of keywords. Built solo at Meta's Llama
 	hackathon. See <a href="https://github.com/mbanerjeepalmer/vol-web">repo</a>
 	and
-	<a href="https://www.producthunt.com/posts/vol" target="_blank" rel="noopener noreferrer"
-		>Product Hunt launch</a
+	<a
+		href="https://www.producthunt.com/products/vol/launches/vol-2"
+		target="_blank"
+		rel="noopener noreferrer">Product Hunt #9 of the day</a
 	>.
 </p>
 <h3>
@@ -68,15 +71,16 @@
 	>
 </h3>
 <p>
-	Mostly in FinTech. At some companies you might have heard of, like Amex. Backed by some investors
-	you might have heard of, like Andreesen Horowitz.
+	Mostly in FinTech. At some companies you might have heard of, like Amex. Backed by some
+	investors you might have heard of, like Andreesen Horowitz.
 </p>
 <h3 class="font-medium">And some consulting</h3>
 <p>User research training, AI engineering, product management training, technical writing.</p>
 <h2>Find me</h2>
 <p>If anything above interests you,I'm always happy to chat.</p>
 <p>
-	<a href="https://github.com/mbanerjeepalmer" target="_blank" rel="noopener noreferrer">GitHub</a>,
+	<a href="https://github.com/mbanerjeepalmer" target="_blank" rel="noopener noreferrer">GitHub</a
+	>,
 	<a href="https://linkedin.com/in/mbanerjeepalmer" target="_blank" rel="noopener noreferrer"
 		>LinkedIn</a
 	>, <a href="https://x.com/mbanerjeepalmer" target="_blank" rel="noopener noreferrer">X</a>,
