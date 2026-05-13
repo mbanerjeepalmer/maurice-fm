@@ -115,7 +115,7 @@
 	you might have heard of, like Andreesen Horowitz.
 </p>
 <h2>Find me</h2>
-<p>If anything above interests you,I'm always happy to chat.</p>
+<p>If anything above interests you, I'm always happy to chat.</p>
 <p>
 	<a href="https://github.com/mbanerjeepalmer" target="_blank" rel="noopener noreferrer">GitHub</a>,
 	<a href="https://linkedin.com/in/mbanerjeepalmer" target="_blank" rel="noopener noreferrer"
