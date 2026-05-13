@@ -42,7 +42,7 @@
 	</li>
 </ul>
 <h2>What I've done</h2>
-<h3>Consulting (now)</h3>
+<h3>Consulting</h3>
 <ul>
 	<li>
 		AI for a 230-year-old auction house. Trained agentic engineering, shipped new products at 20x
@@ -50,6 +50,7 @@
 	</li>
 	<li>User research training for a VC-backed proptech startup.</li>
 </ul>
+<p>Please reach out if you'd like to discuss whether I can be useful.</p>
 <h3><a href="https://bnqt.app/" target="_blank" rel="noopener noreferrer">Banquet</a></h3>
 <p>
 	<a href="https://bnqt.app/" target="_blank" rel="noopener noreferrer">Banquet</a>: Solo founded AI
